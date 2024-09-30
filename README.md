@@ -108,5 +108,5 @@ This project is licensed under the MIT License.
 
 For any issues or questions, feel free to reach out to the project author:
 
-- **Email**: nyerereoffice@example.com
+- **Email**: nyerereoffice@gmail.com
 
